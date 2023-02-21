@@ -136,5 +136,16 @@ a{
     gap: 12px;
     justify-content: center;
     align-items: center;
+    margin-top: 64px;
+
+}
+.text-part-5-h2{
+    color: var(--color-text-bold);
+
+}
+
+.text-part-5-pra{
+    color:var(--color-pra);
+    font-size:var(--pragraph);
     
 }
