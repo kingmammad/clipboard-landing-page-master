@@ -76,6 +76,9 @@ a{
     margin-bottom: 72px;
 
 }
+.part-2-h2{
+    color: var(--color-text-bold);
+}
 .part-2-pra{
     color: var(--color-pra);
     font-size: var(--pragraph);
@@ -110,5 +113,16 @@ a{
     align-items: center;
     flex-direction: column;
     margin-top: 110px;
+    gap: 18px;
 
+}
+.text-part-4-h2{
+    color: var(--color-text-bold);
+
+}
+.text-part-4-pra{
+    color: var(--color-pra);
+    font-size: var(--pragraph);
+    text-align: center;
+    line-height: 24px;
 }
