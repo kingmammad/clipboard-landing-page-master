@@ -104,3 +104,11 @@ a{
     color: var(--color-pra);
     font-size: 12px;
 }
+.part-4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 110px;
+
+}
