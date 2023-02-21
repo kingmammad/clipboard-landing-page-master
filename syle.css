@@ -5,13 +5,13 @@
 
 }
 body{
-    font-family: sans-serif;
+    font-family: 'Bai Jamjuree', sans-serif;
 
 }
 :root{
     /* color */
-    --botton-rth: hsl(171, 66%, 44%);
-    --bottom-lft:hsl(233, 100%, 69%);
+    --botton-lft: hsl(171, 66%, 44%);
+    --bottom-rth:hsl(233, 100%, 69%);
     --color-text-bold:hsl(210, 10%, 33%);
     --color-pra:hsl(201, 11%, 66%);
        /* text-font */
@@ -46,7 +46,16 @@ a{
     background-color: aqua;
     padding: 10px 18px;
     border-radius: 18px;
+    text-decoration: none;
 
+}
+.ios{
+    background-color:var(--botton-lft) ;
+    color: #ffff ;
+}
+.mac{
+    background-color: var(--bottom-rth);
+    color: white;
 }
 .part-1-h2{
     font-size: var(--tittle-1);
