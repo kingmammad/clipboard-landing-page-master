@@ -90,6 +90,7 @@ a{
     display: flex;
     gap: 72px;
     align-items: center;
+    justify-content: center;
     margin-top: 46px;
    padding-right: 38px;
 }
