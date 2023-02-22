@@ -234,3 +234,10 @@ a{
     margin-left: 72px;
     margin-right: 160px;
 }
+.media{
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    gap: 14px;
+    padding-left: 100px;
+}
