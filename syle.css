@@ -220,9 +220,7 @@ a{
 .part-8-h2{
     color: var(--color-text-bold);
 }
-.link-footer{
 
-}
 .footer{
     display: flex;
     gap: 44px;
