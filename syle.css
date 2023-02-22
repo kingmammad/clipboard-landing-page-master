@@ -217,8 +217,10 @@ a{
 }
 .footer{
     display: flex;
-    gap: 24px;
+    gap: 44px;
     align-items: center;
     justify-content: center;
-    margin-top: 32px;
+    margin-top: 120px;
+    background-color:rgba(201, 208, 214, 0.5);
+    padding: 36px 0px;
 }
