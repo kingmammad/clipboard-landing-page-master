@@ -164,16 +164,7 @@ a{
     align-items: center;
 
 }
-.part-6-h4{
-    color: var(--color-text-bold);
-    margin-top: 30px;
-}
-.part-6-pra{
-    color: var(--color-pra);
-    font-size: 12px;
-    text-align: center;
-    margin-top: 16px;
-}
+
 .plain{
     display: flex;
     flex-direction: column;
@@ -188,4 +179,14 @@ a{
     justify-content: center;
     align-items: center;
 
+}
+.part-6-h4{
+    color: var(--color-text-bold);
+    margin-top: 30px;
+}
+.part-6-pra{
+    color: var(--color-pra);
+    font-size: 12px;
+    text-align: center;
+    margin-top: 16px;
 }
