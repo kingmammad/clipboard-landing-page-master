@@ -43,7 +43,7 @@ header {
     margin-top: 18px;
 }
 a{
-    background-color: aqua;
+    
     padding: 14px 24px;
     border-radius: 24px;
     text-decoration: none;
@@ -211,4 +211,13 @@ a{
 }
 .part-8-h2{
     color: var(--color-text-bold);
+}
+.link-footer{
+
+}
+.footer{
+    display: flex;
+    gap: 24px;
+    align-items: center;
+    justify-content: center;
 }
